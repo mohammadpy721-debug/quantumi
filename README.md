@@ -2,7 +2,7 @@
 
 # 🚀 QuantumAI
 
-Audit Python repositories with AST analysis and OpenAI, then generate the README.[span_1](start_span)[span_1](end_span)
+Audit Python repositories with AST analysis and OpenAI, then generate the README.[span_0](start_span)[span_0](end_span)
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.9+">
@@ -15,7 +15,7 @@ Audit Python repositories with AST analysis and OpenAI, then generate the README
 
 ---
 
-QuantumAI parses your project with Python's built-in ast module, flags risky patterns locally, and sends structured metadata (never whole files) to OpenAI for a deeper security and performance review[span_2](start_span)[span_2](end_span). The same project summary can then be turned into a complete, professional README.md[span_3](start_span)[span_3](end_span).
+QuantumAI parses your project with Python's built-in ast module, flags risky patterns locally, and sends structured metadata (never whole files) to OpenAI for a deeper security and performance review[span_1](start_span)[span_1](end_span). The same project summary can then be turned into a complete, professional README.md[span_2](start_span)[span_2](end_span).
 
 `text
 $ quantumai audit ./shop-api
